@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: d37fab669c5964ef3b5cd99b1de7032a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: CasaDentro
+    100004: CasaFuera
+    100006: Escaleras
+    100008: //RootNode
+    100010: ParedDentroDer
+    100012: ParedDentroFondo
+    100014: ParedDentroFrente
+    100016: ParedDentroIzq
+    100018: ParedFueraDer
+    100020: ParedFueraFondo
+    100022: ParedFueraFrenteAbajo
+    100024: ParedFueraFrenteArriba
+    100026: ParedFueraIzq
+    100028: SueloAbajo
+    100030: SueloArriba
+    100032: TechoAbajo
+    100034: TechoArriba
+    100036: TechoFuera
+    100038: PuertaDentro
+    400000: Base
+    400002: CasaDentro
+    400004: CasaFuera
+    400006: Escaleras
+    400008: //RootNode
+    400010: ParedDentroDer
+    400012: ParedDentroFondo
+    400014: ParedDentroFrente
+    400016: ParedDentroIzq
+    400018: ParedFueraDer
+    400020: ParedFueraFondo
+    400022: ParedFueraFrenteAbajo
+    400024: ParedFueraFrenteArriba
+    400026: ParedFueraIzq
+    400028: SueloAbajo
+    400030: SueloArriba
+    400032: TechoAbajo
+    400034: TechoArriba
+    400036: TechoFuera
+    400038: PuertaDentro
+    2300000: Base
+    2300002: Escaleras
+    2300004: ParedDentroDer
+    2300006: ParedDentroFondo
+    2300008: ParedDentroFrente
+    2300010: ParedDentroIzq
+    2300012: ParedFueraDer
+    2300014: ParedFueraFondo
+    2300016: ParedFueraFrenteAbajo
+    2300018: ParedFueraFrenteArriba
+    2300020: ParedFueraIzq
+    2300022: SueloAbajo
+    2300024: SueloArriba
+    2300026: TechoAbajo
+    2300028: TechoArriba
+    2300030: TechoFuera
+    2300032: PuertaDentro
+    3300000: Base
+    3300002: Escaleras
+    3300004: ParedDentroDer
+    3300006: ParedDentroFondo
+    3300008: ParedDentroFrente
+    3300010: ParedDentroIzq
+    3300012: ParedFueraDer
+    3300014: ParedFueraFondo
+    3300016: ParedFueraFrenteAbajo
+    3300018: ParedFueraFrenteArriba
+    3300020: ParedFueraIzq
+    3300022: SueloAbajo
+    3300024: SueloArriba
+    3300026: TechoAbajo
+    3300028: TechoArriba
+    3300030: TechoFuera
+    3300032: PuertaDentro
+    4300000: ParedDentroFrente
+    4300002: ParedDentroDer
+    4300004: ParedDentroFondo
+    4300006: TechoArriba
+    4300008: TechoAbajo
+    4300010: SueloArriba
+    4300012: Escaleras
+    4300014: SueloAbajo
+    4300016: ParedDentroIzq
+    4300018: TechoFuera
+    4300020: Base
+    4300022: ParedFueraFrenteArriba
+    4300024: ParedFueraFrenteAbajo
+    4300026: ParedFueraFondo
+    4300028: ParedFueraDer
+    4300030: ParedFueraIzq
+    4300032: PuertaDentro
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
